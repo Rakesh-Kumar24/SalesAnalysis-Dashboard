@@ -174,7 +174,7 @@ Vendor-level detailed page with:
 
 ---
 
-## 🙌 Kavya
+## 🙌 Rakesh
 
-**Kavya Sakhamuri**
+**Rakesh Kumar A**
 Data Analyst | Power BI | SQL | DAX
