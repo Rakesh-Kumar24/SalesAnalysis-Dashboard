@@ -160,18 +160,6 @@ Vendor-level detailed page with:
 
 ---
 
-
-## 💻 Repository Structure
-
-```
-📁 Ecommerce-Sales-Analysis
- ├── 📂 Data
- ├── 📂 Screenshots
- ├── 📂 Documentation
- ├── README.md
- └── Ecommerce-Sales.pbix
-```
-
 ---
 
 ## 🙌 Rakesh
