@@ -5,6 +5,22 @@
 ## 📌 Live Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiOTI0YjE2NzctNDE1Yi00MTlmLWIyYmMtODdjNjg4Nzk4ZGFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+### 📊 1. Sales Analysis Page
+
+![Sales Analysis Preview](/Sales%20Analysis.jpg)
+
+The **Sales Analysis Page** provides a comprehensive overview of sales performance — highlighting total sales, daily sales trends, moving averages, period-based comparisons (7d/14d/28d), and top-performing vendors through interactive KPI cards and trend charts to support data-driven business decisions.
+
+---
+
+### 🏢 2. Vendor Details Page  
+
+![Vendor Details Preview](/VendorDetails.jpg)
+
+The **Vendor Details Page** provides a detailed overview of vendor performance — highlighting total orders, items sold, overall sales revenue, and monthly sales trends through KPI cards and quarterly sales charts to help analyze vendor contribution and business performance.
+
+---
+
 ## 📌 Project Overview
 
 This project focuses on analyzing the sales performance of a large ecommerce platform selling 25,000+ products through multiple vendors nationwide. The objective was to create an analytical dashboard for the Sales Team to:
