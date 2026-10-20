@@ -1,5 +1,3 @@
-# Ecommerce-Sales-Analysis-Power-BI-Dashboard
-
 # Ecommerce Sales Analysis – Power BI Dashboard
 
 ## 📌 Live Dashboard Link
@@ -15,7 +13,7 @@ The **Sales Analysis Page** provides a comprehensive overview of sales performan
 
 ### 🏢 2. Vendor Details Page  
 
-![Vendor Details Preview](/VendorDetails.jpg)
+![Vendor Details Preview](/Vendor%20Details.jpg)
 
 The **Vendor Details Page** provides a detailed overview of vendor performance — highlighting total orders, items sold, overall sales revenue, and monthly sales trends through KPI cards and quarterly sales charts to help analyze vendor contribution and business performance.
 
