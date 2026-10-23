@@ -1,22 +1,5 @@
 # Ecommerce Sales Analysis – Power BI Dashboard
 
-
-### 📊 1. Sales Analysis Page
-
-![Sales Analysis Preview](/Sales%20Analysis.jpg)
-
-The **Sales Analysis Page** provides a comprehensive overview of sales performance — highlighting total sales, daily sales trends, moving averages, period-based comparisons (7d/14d/28d), and top-performing vendors through interactive KPI cards and trend charts to support data-driven business decisions.
-
----
-
-### 🏢 2. Vendor Details Page  
-
-![Vendor Details Preview](/Vendor%20Details.jpg)
-
-The **Vendor Details Page** provides a detailed overview of vendor performance — highlighting total orders, items sold, overall sales revenue, and monthly sales trends through KPI cards and quarterly sales charts to help analyze vendor contribution and business performance.
-
----
-
 ## 📌 Project Overview
 
 This project focuses on analyzing the sales performance of a large ecommerce platform selling 25,000+ products through multiple vendors nationwide. The objective was to create an analytical dashboard for the Sales Team to:
@@ -31,6 +14,21 @@ The dashboard was built using **three Excel datasets**:
 1. **2021Sales.xls** – Order data including OrderID, Date, ItemID, Quantity, and Sales Amount
 2. **Item-Vendor.xls** – Mapping of items to vendors
 3. **Vendor-Manager.xls** – Mapping of vendors to sales managers
+
+---
+### 📊 1. Sales Analysis Page
+
+![Sales Analysis Preview](/Sales%20Analysis.jpg)
+
+The **Sales Analysis Page** provides a comprehensive overview of sales performance — highlighting total sales, daily sales trends, moving averages, period-based comparisons (7d/14d/28d), and top-performing vendors through interactive KPI cards and trend charts to support data-driven business decisions.
+
+---
+
+### 🏢 2. Vendor Details Page  
+
+![Vendor Details Preview](/Vendor%20Details.jpg)
+
+The **Vendor Details Page** provides a detailed overview of vendor performance — highlighting total orders, items sold, overall sales revenue, and monthly sales trends through KPI cards and quarterly sales charts to help analyze vendor contribution and business performance.
 
 ---
 
